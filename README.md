@@ -1,6 +1,6 @@
 # 👋 Hi, I'm DHarani Ganesh A
 
-### 🔐 Cybersecurity & Digital Forensics Enthusiast | Security Automation
+### 🔐 Cybersecurity & Digital Forensics Enthusiast
 
 ---
 
@@ -33,7 +33,7 @@ Currently exploring opportunities in:
 ## 💬 Ask Me About
 
 - Digital Forensics & Evidence Preservation
-- Python for Security Automation
+- Python
 - Linux Basics for Forensics
 - USB Device Tracking & Metadata Extraction
 - Cybersecurity Fundamentals
