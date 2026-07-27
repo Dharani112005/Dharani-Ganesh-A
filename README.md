@@ -122,11 +122,5 @@ A full-stack web application for metadata extraction and evidence management.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default)
-
----
 
 > *"Every digital crime leaves a trace. My job is to find it."* 🔍
