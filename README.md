@@ -15,12 +15,6 @@ Currently exploring opportunities in:
 
 ---
 
-## 🔭 I'm Currently Working On
-
-- **USB Forensics and Device Tracer** — Python tool to analyze USB artifacts and trace connection history
-- **Forensic Metadata Extractor** — Full-stack app for evidence management with tamper detection
-
----
 
 ## 🌱 I'm Currently Learning
 
