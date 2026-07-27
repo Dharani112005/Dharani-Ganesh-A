@@ -49,38 +49,40 @@ Currently exploring opportunities in:
 
 ---
 
+
 ## 🛠️ My Toolkit
 
 ### 💻 Programming Languages
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" alt="Perl" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" alt="Perl" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="55" height="55"/>
 </p>
 
 ### 🔍 Forensic Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/FTK_Imager-003B6F?style=for-the-badge&logo=java&logoColor=white" alt="FTK Imager"/>
-  <img src="https://img.shields.io/badge/Autopsy-7A2B8C?style=for-the-badge&logo=autopsy&logoColor=white" alt="Autopsy"/>
-  <img src="https://img.shields.io/badge/PhotoRec-00A86B?style=for-the-badge&logo=image&logoColor=white" alt="PhotoRec"/>
+  <img src="https://img.shields.io/badge/FTK_IMAGER-003B6F?style=for-the-badge&logo=java&logoColor=white" alt="FTK Imager"/>
+  <img src="https://img.shields.io/badge/AUTOPSY-7A2B8C?style=for-the-badge&logo=autopsy&logoColor=white" alt="Autopsy"/>
+  <img src="https://img.shields.io/badge/PHOTOREC-00A86B?style=for-the-badge&logo=image&logoColor=white" alt="PhotoRec"/>
 </p>
 
 ### 🛡️ Security & Networking Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
-  <img src="https://img.shields.io/badge/Nessus-00A3E0?style=for-the-badge&logo=tenable&logoColor=white" alt="Nessus"/>
-  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
+  <img src="https://img.shields.io/badge/WIRESHARK-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/NMAP-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/NESSUS-00A3E0?style=for-the-badge&logo=tenable&logoColor=white" alt="Nessus"/>
+  <img src="https://img.shields.io/badge/METASPLOIT-000000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
 </p>
 
 ### 🖥️ Operating Systems
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="55" height="55"/>
 </p>
+
 
 ---
 
