@@ -1,4 +1,4 @@
-# 👋 Hi, I'm DHarani Ganesh A
+# 👋 Hi, I'm Dharani Ganesh A
 
 ### 🔐 Cybersecurity & Digital Forensics Enthusiast | Security Automation
 
