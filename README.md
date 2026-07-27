@@ -100,7 +100,7 @@ A forensic tool to analyze USB device artifacts and reconstruct connection histo
 ---
 
 ### 📄 Forensic Metadata Extractor & Evidence Management
-> *Python · MySQL · ReactFlow*
+> *Python · MySQL*
 
 A full-stack web application for metadata extraction and evidence management.
 
