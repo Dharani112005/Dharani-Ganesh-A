@@ -49,37 +49,35 @@ Currently exploring opportunities in:
 
 ---
 
-## 🛠️ My Toolkit
-
 ### 💻 Programming Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" alt="Bash" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Perl-logo.svg" alt="Perl" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="50" height="50"/>
 </p>
 
 ### 🔍 Forensic Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/FTK_Imager-003B6F?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Autopsy-7A2B8C?style=for-the-badge&logo=autopsy&logoColor=white" />
-  <img src="https://img.shields.io/badge/PhotoRec-00A86B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48cGF0aCBkPSJNMzIgMnY2MG0wLTYwbDE4IDE4bS0xOC0xOGwtMTggMTgiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSI0Ii8+PC9zdmc+" />
+    <img src="https://github.com/forensic-analysis/FTK-Imager-Logo/raw/main/ftk_imager_logo.png" alt="FTK Imager" width="50" height="50"/>
+    <img src="https://www.sleuthkit.org/autopsy/images/autopsy_logo_72dpi.png" alt="Autopsy" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/PhotoRec_Logo.svg/95px-PhotoRec_Logo.svg.png" alt="PhotoRec" width="50" height="50"/>
 </p>
 
 ### 🛡️ Security & Networking Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nessus-00A3E0?style=for-the-badge&logo=tenable&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" />
+    <img src="https://www.wireshark.org/assets/images/favicon.ico" alt="Wireshark" width="50" height="50"/>
+    <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="Nmap" width="50" height="50"/>
+    <img src="https://www.tenable.com/sites/drupal.dmz.tenablesecurity.com/files/nessus_logo_0.png" alt="Nessus" width="50" height="50"/>
+    <img src="https://www.metasploit.com/images/metasploit-logo.png" alt="Metasploit" width="50" height="50"/>
 </p>
 
 ### 🖥️ Operating Systems
 <p align="left">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Windows_10_Logo.svg" alt="Windows" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="50" height="50"/>
 </p>
 
 ---
